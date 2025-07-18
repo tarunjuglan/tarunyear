@@ -53,7 +53,7 @@ const timelineData = [
   {
     date: 'January 2025',
     title: 'The magic moment',
-    description: 'kutta mujhe kiss nhi krta uss din ki mere bache ne kitna mst lga Tha dosa date😅💓',
+    description: 'kutta mujhe kiss nhi krta uss din ki mere bache ne mujhe kitna mst lga Tha 😅💓',
     image: phto7
   },
   {
